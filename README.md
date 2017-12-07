@@ -10,3 +10,5 @@ C语言五子棋 人机战/人人战<br>
 * ![image](https://github.com/cornelius90/Gobang/raw/master/images/2.png)
 3. 黑子/电脑 赢提示：
 * ![image](https://github.com/cornelius90/Gobang/raw/master/images/3.png)
+4. 按任意键结束本轮游戏，输入Exit进入下轮游戏
+* ![image](https://github.com/cornelius90/Gobang/raw/master/images/4.png)
